@@ -1,4 +1,4 @@
-# Hacker News App
+# Hacker News
 
 ## About📝
 
