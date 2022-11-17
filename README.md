@@ -2,15 +2,9 @@
 
 ## About📝
 
-__Features:__
-  - Search form.
-  - Hacker news API to fetch stories.
-  - Page loading animation.
-  - Server-side pagination.
-  - Clicking the "Read More" button navigates to that specific story.
-  - Clicking the "Remove" button removes the story.
-
-__Contribution:__ News app where users can search the story, read the story, remove the story, and paginate to different pages.
+- __Features:__ Filter the story using the search form input; used the Hacker News API to retrieve stories; a loading animation for a page; server-side pagination; the "Read More" button directs you to that particular story; the story disappears after pressing the "Remove" button.
+- __Tech Stack:__ HTML, CSS, and ReactJS.
+- __Contribution:__ Developed a news app that allows users to search for stories, read them, delete them, and browse through the content.
 
 
 ## Languages and Tools⚙️
